@@ -17,7 +17,8 @@ Character Creator Studio Pro is a comprehensive web application that allows you 
 - Rotate, zoom, and view your character from any angle  
 - Toggle between front and back views  
 - Auto-rotate mode for presentations  
-- Adjustable lighting and shading options  
+- Adjustable lighting and shading options
+- Use preferably STEVE skin bases while converting inbbetween alex and steve.
 
 ### 📚 Layer-Based Editing System
 - Add multiple overlay layers to build complex designs  
