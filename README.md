@@ -1,0 +1,2 @@
+# AvatarPlus-wiki
+wiki
